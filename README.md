@@ -1,4 +1,4 @@
-# Neuro Hack - Personalised Brain Frequency Recogniser
+# Neuro Hack 2023 - Personalised Brain Frequency Recogniser
 
 ![Neuro Hack](neuro_hack.png)
 
