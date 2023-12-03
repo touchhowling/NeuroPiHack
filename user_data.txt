@@ -76,3 +76,6 @@ Frequency: 3.5
 Name: neuropi
 Mode: Calm
 Frequency: 2.6
+Name: ved
+Mode: Calm
+Frequency: 6.5
