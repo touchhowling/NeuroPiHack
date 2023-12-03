@@ -39,6 +39,13 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Demo Video
+
+[![Neuro Hack Demo](neuro_hack_demo_thumbnail.png)](NeuroPI.mp4)
+
+Click the image above to watch the demo video.
+
+
 ## Acknowledgements
 
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
