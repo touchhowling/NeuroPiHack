@@ -1,6 +1,6 @@
 # Neuro Hack - Personalised Brain Frequency Recogniser
 
-![Neuro Hack](neuro_hack_image.png)
+![Neuro Hack](neuro_hack.png)
 
 Neuro Hack is a personalised brain frequency recogniser designed to help you achieve a calm or focused state of mind. It utilizes specific brain frequencies and plays them through Spotify. By triggering your brain with these frequencies, Neuro Hack can enhance productivity and aid in relaxation.
 
