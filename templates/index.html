@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Collection</title>
+</head>
+<body>
+    <h1>Data Collection</h1>
+    <form action="/store_data" method="post">
+        <label for="name">Name:</label>
+        <input type="text" name="name" required><br>
+        
+        <label for="mode">Mode:</label>
+        <select name="mode" required>
+            <option value="calm">Calm</option>
+            <option value="focused">Focused</option>
+        </select><br>
+
+        <input type="submit" value="Store Data">
+    </form>
+
+    {% for plot_filename in plot_filenames %}
+        <img src="{{ plot_filename }}" alt="Plot">
+    {% endfor %}
+</body>
+</html>
